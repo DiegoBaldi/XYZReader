@@ -44,7 +44,7 @@
             android:paddingLeft="@dimen/list_item_horizontal_margin"
             android:paddingRight="@dimen/list_item_horizontal_margin"
             android:paddingBottom="@dimen/list_item_vertical_margin"
-            android:textColor="#6000"
+            android:textColor="@color/subtitle_text"
             android:maxLines="1"
             android:singleLine="true"
             android:ellipsize="end" />
